@@ -25,6 +25,11 @@ public class PersonalInformation {
          * Display developer credit                    *
          ***********************************************/
         System.out.println("\nDeveloped by: Nikita Baiborodov");
+
+        /* ********************************************
+         * Exit the program                           *
+         **********************************************/
+        System.exit(0);
     }
 }
 
